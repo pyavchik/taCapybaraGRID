@@ -1,0 +1,8 @@
+2018-07-31T15:11:16.342Z [[32minfo[39m] 	Starting TrueAutomation.IO client
+2018-07-31T15:11:16.343Z [[32minfo[39m] 	API key: 1ad398b6-4a4d-4d0b-aa77-b2117802a0e4
+2018-07-31T15:11:16.343Z [[32minfo[39m] 	Project name: taCapybaraGRID
+2018-07-31T15:11:16.343Z [[32minfo[39m] 	Cloud server: https://app.trueautomation.io
+2018-07-31T15:11:16.772Z [[32minfo[39m] 	TrueAutomation.IO Client is listening on port 9515
+2018-07-31T15:11:17.421Z [[32minfo[39m] 	0 Create session request: {"desiredCapabilities":{"taRemoteUrl":"http://remote_adress"},"capabilities":{"firstMatch":[{}]}}
+2018-07-31T15:11:17.488Z [[32minfo[39m] 	Sync elements
+2018-07-31T15:11:18.009Z [[32minfo[39m] 	Stopping process
