@@ -38,7 +38,6 @@ Capybara.configure do |capybara|
   capabilities['taRemoteUrl'] = ['http://localhost:4444/wd/hub']
   Capybara.register_driver :remote_browser do |app|
     Capybara::Selenium::Driver.new(app, browser: :remote, :desired_capabilities => capabilities)
-    #Capybara::Selenium::Driver.new(app, browser: :remote, url: 'http://localhost:4444', :desired_capabilities => capabilities)
   end
 
   Dir[File.join(spec_dir, 'support/**/*.rb')].each {|f|
