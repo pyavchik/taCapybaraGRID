@@ -47,5 +47,3 @@ Capybara.configure do |capybara|
   }
 
 end
-
-
