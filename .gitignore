@@ -1,0 +1,6 @@
+.idea/
+Gemfile.lock
+gen/
+log/
+mkmf.log
+trueautomation.json
